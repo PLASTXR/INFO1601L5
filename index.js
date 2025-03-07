@@ -98,4 +98,4 @@ console.log(getAverageGrade(bob, 'INFO 1603'));
 
 console.log(getAssignmentMark(bob, 'INFO 1601', 2));
 
-console.log(averageAssessment(students, 'INFO 1601', 1))
+console.log(averageAssessment(students, 'INFO 1601', 1));
